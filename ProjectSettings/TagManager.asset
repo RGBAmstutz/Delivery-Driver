@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Package
   - Drop-off
+  - Speed Boost
+  - Slow
   layers:
   - Default
   - TransparentFX
